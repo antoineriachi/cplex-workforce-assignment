@@ -22,6 +22,6 @@ Download instructions are found [here](https://www.ibm.com/support/pages/downloa
      
 * `Mathematical Model for Customer Support System Staff Scheduling` - detailed description of the model
 
-* `mod-raw-code.txt` - cplex code for the model 
+* `mod-raw-code.txt` - cplex code of the model 
 
 * `README.md` - git repo description
